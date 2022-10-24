@@ -2,13 +2,11 @@ import matplotlib.pyplot as plt
 import glob
 import os
 import cv2
-from skimage.io import imread, imshow
 from sklearn import svm
 from sklearn.svm import SVC
 from sklearn.metrics import classification_report,accuracy_score
 from skimage import color
 from skimage.feature import hog
-from skimage.transform import resize
 import numpy as np
 
 def hog_train_img(path):
@@ -47,15 +45,32 @@ def hog_train_img(path):
     else:
         os.mkdir("plotted")
         i = 0
+        n = 1
         for im in images:
-            plotted = plt.imshow(im,cmap=plt.cm.gray)
+            plt.imshow(im,cmap=plt.cm.gray)
             for p,q in npy_data[i][1]:
                 x = p 
                 y = q 
-                plt.scatter([x], [y], color='red')
+                plt.scatter(x, y, color='red')
+                plt.text(x, y, str(n))
+                n += 1
             plt.savefig("plotted/"+str(names[i]))
             plt.clf()
             i += 1
+            n = 1
+    i = 0
+    n = 1
+    for im in images:
+        plt.imshow(im,cmap=plt.cm.gray)
+        for p,q in npy_data[i][1]:
+            x = p 
+            y = q 
+            plt.scatter(x, y, color='red')
+            plt.text(x, y, str(n))
+            n += 1
+        plt.show()
+        i += 1
+
 
 
 hog_train_img("train_hog")
