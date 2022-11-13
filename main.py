@@ -48,7 +48,7 @@ def plot_out(images,names,npy_data):
 
 def main():
     # folder containing all the evaluated images of sheep
-    path = "train_hog"
+    path = "data"
 
     images = []
     names = []
