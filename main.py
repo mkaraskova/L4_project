@@ -5,6 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from skimage.feature import hog
 
+
 # python files imports
 from angles import *
 from train_svm import *
@@ -43,9 +44,6 @@ def plot_out(images,names,npy_data):
             plt.savefig("hog_features/"+str(names[n]))
             n += 1
 
-    crop_out(images, npy_data)
-
-
 def main():
     # folder containing all the evaluated images of sheep
     path = "data"
@@ -54,6 +52,17 @@ def main():
     names = []
     npy_data = []
     
+    avg_pain = [0.40,0.67,0.50,0.33,0.50,0.33,0.67,0.33,0.33,0.00,
+                0.00,0.00,0.00,0.00,1.33,0.25,0.00,0.00,0.00,0.67,
+                0.33,1.33,0.00,0.25,0.50,0.33,0.33,0.25,0.00,0.33,
+                0.33,0.75,0.00,0.33,0.67,0.75,0.40,1.00,0.50,0.67,
+                0.00,0.00,0.67]
+    avg_pain_f = [0,1,0,0,0,0,1,0,0,0,
+                0,0,0,0,1,0,0,0,0,1,
+                0,1,0,0,0,0,0,0,0,0,
+                0,1,0,0,1,1,0,1,0,1,
+                0,0,1]
+
     #load and convert png images into their numpy form
     for image in sorted(glob.glob(path+"/*.png")):
         im = cv2.imread(image)
@@ -65,7 +74,12 @@ def main():
     for d in sorted(glob.glob(path+"/*s.npy")):
         npy_data.append((np.load(d, allow_pickle=True)))
 
+    print("Plotting...")
     plot_out(images,names,npy_data)
+    print("Cropping...")
+    labels, samples,angles = crop_out(images, npy_data, names)
+    print("Training...")
+    evaluate(avg_pain_f, samples, angles)
 
 if __name__ == "__main__":
     main()
