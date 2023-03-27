@@ -1,0 +1,185 @@
+2023-03-18 21:55:08,410 : INFO : Generating initial shapes
+2023-03-18 21:55:08,417 : INFO : Perturbing initial estimates, perturbations times: 100
+2023-03-18 21:55:09,000 : INFO : Size of augmented dataset after perturbations: 2200 images.
+2023-03-18 21:55:16,123 : INFO : Building trees:
+2023-03-18 21:55:16,124 : INFO : Finish 0 trees
+2023-03-18 21:59:03,125 : INFO : Generating initial shapes
+2023-03-18 21:59:03,128 : INFO : Perturbing initial estimates, perturbations times: 100
+2023-03-18 21:59:03,544 : INFO : Size of augmented dataset after perturbations: 2200 images.
+2023-03-18 21:59:07,954 : INFO : Building trees:
+2023-03-18 21:59:07,954 : INFO : Finish 0 trees
+2023-03-18 22:00:21,609 : INFO : Built Forest 0
+2023-03-18 22:00:22,782 : INFO : Building trees:
+2023-03-18 22:00:22,782 : INFO : Finish 0 trees
+2023-03-18 22:01:13,563 : INFO : Built Forest 1
+2023-03-18 22:01:14,697 : INFO : Building trees:
+2023-03-18 22:01:14,697 : INFO : Finish 0 trees
+2023-03-18 22:02:02,953 : INFO : Built Forest 2
+2023-03-18 22:02:04,090 : INFO : Building trees:
+2023-03-18 22:02:04,091 : INFO : Finish 0 trees
+2023-03-18 22:03:01,426 : INFO : Built Forest 3
+2023-03-18 22:03:02,568 : INFO : Building trees:
+2023-03-18 22:03:02,568 : INFO : Finish 0 trees
+2023-03-18 22:03:55,472 : INFO : Built Forest 4
+2023-03-18 22:05:27,282 : INFO : Generating initial shapes
+2023-03-18 22:05:27,283 : INFO : Perturbing initial estimates, perturbations times: 100
+2023-03-18 22:05:27,405 : INFO : Size of augmented dataset after perturbations: 2200 images.
+2023-03-18 22:05:28,555 : INFO : Building trees:
+2023-03-18 22:05:28,555 : INFO : Finish 0 trees
+2023-03-18 22:06:26,019 : INFO : Built Forest 0
+2023-03-18 22:06:27,197 : INFO : Building trees:
+2023-03-18 22:06:27,197 : INFO : Finish 0 trees
+2023-03-18 22:07:27,389 : INFO : Built Forest 1
+2023-03-18 22:07:28,545 : INFO : Building trees:
+2023-03-18 22:07:28,545 : INFO : Finish 0 trees
+2023-03-18 22:08:23,812 : INFO : Built Forest 2
+2023-03-18 22:08:24,950 : INFO : Building trees:
+2023-03-18 22:08:24,950 : INFO : Finish 0 trees
+2023-03-18 22:09:19,991 : INFO : Built Forest 3
+2023-03-18 22:09:21,152 : INFO : Building trees:
+2023-03-18 22:09:21,152 : INFO : Finish 0 trees
+2023-03-18 22:10:15,204 : INFO : Built Forest 4
+2023-03-18 22:10:41,987 : INFO : Generating initial shapes
+2023-03-18 22:10:41,997 : INFO : Perturbing initial estimates, perturbations times: 100
+2023-03-18 22:10:42,224 : INFO : Size of augmented dataset after perturbations: 2200 images.
+2023-03-18 22:10:44,635 : INFO : Building trees:
+2023-03-18 22:10:44,635 : INFO : Finish 0 trees
+2023-03-18 22:12:19,236 : INFO : Built Forest 0
+2023-03-18 22:12:21,697 : INFO : Building trees:
+2023-03-18 22:12:21,697 : INFO : Finish 0 trees
+2023-03-18 22:14:04,705 : INFO : Built Forest 1
+2023-03-18 22:14:07,145 : INFO : Building trees:
+2023-03-18 22:14:07,145 : INFO : Finish 0 trees
+2023-03-18 22:15:54,337 : INFO : Built Forest 2
+2023-03-18 22:15:56,788 : INFO : Building trees:
+2023-03-18 22:15:56,788 : INFO : Finish 0 trees
+2023-03-18 22:17:38,002 : INFO : Built Forest 3
+2023-03-18 22:17:40,551 : INFO : Building trees:
+2023-03-18 22:17:40,551 : INFO : Finish 0 trees
+2023-03-18 22:19:19,257 : INFO : Built Forest 4
+2023-03-18 22:54:25,266 : INFO : Generating initial shapes
+2023-03-18 22:54:25,268 : INFO : Perturbing initial estimates, perturbations times: 100
+2023-03-18 22:54:25,390 : INFO : Size of augmented dataset after perturbations: 2200 images.
+2023-03-18 22:54:26,568 : INFO : Building trees:
+2023-03-18 22:54:26,568 : INFO : Finish 0 trees
+2023-03-18 22:55:27,770 : INFO : Built Forest 0
+2023-03-18 22:55:28,939 : INFO : Building trees:
+2023-03-18 22:55:28,939 : INFO : Finish 0 trees
+2023-03-18 22:56:29,028 : INFO : Built Forest 1
+2023-03-18 22:56:30,201 : INFO : Building trees:
+2023-03-18 22:56:30,201 : INFO : Finish 0 trees
+2023-03-18 22:57:26,442 : INFO : Built Forest 2
+2023-03-18 22:57:27,694 : INFO : Building trees:
+2023-03-18 22:57:27,694 : INFO : Finish 0 trees
+2023-03-18 22:58:34,703 : INFO : Built Forest 3
+2023-03-18 22:58:35,903 : INFO : Building trees:
+2023-03-18 22:58:35,903 : INFO : Finish 0 trees
+2023-03-18 22:59:33,407 : INFO : Built Forest 4
+2023-03-18 23:00:15,079 : INFO : Generating initial shapes
+2023-03-18 23:00:15,081 : INFO : Perturbing initial estimates, perturbations times: 100
+2023-03-18 23:00:15,268 : INFO : Size of augmented dataset after perturbations: 2200 images.
+2023-03-18 23:00:16,603 : INFO : Building trees:
+2023-03-18 23:00:16,603 : INFO : Finish 0 trees
+2023-03-18 23:01:10,878 : INFO : Built Forest 0
+2023-03-18 23:01:12,066 : INFO : Building trees:
+2023-03-18 23:01:12,066 : INFO : Finish 0 trees
+2023-03-18 23:02:10,984 : INFO : Built Forest 1
+2023-03-18 23:02:12,157 : INFO : Building trees:
+2023-03-18 23:02:12,158 : INFO : Finish 0 trees
+2023-03-18 23:03:12,628 : INFO : Built Forest 2
+2023-03-18 23:03:13,824 : INFO : Building trees:
+2023-03-18 23:03:13,824 : INFO : Finish 0 trees
+2023-03-18 23:04:08,339 : INFO : Built Forest 3
+2023-03-18 23:04:09,517 : INFO : Building trees:
+2023-03-18 23:04:09,517 : INFO : Finish 0 trees
+2023-03-18 23:05:05,479 : INFO : Built Forest 4
+2023-03-18 23:09:25,737 : INFO : Generating initial shapes
+2023-03-18 23:09:25,737 : INFO : Perturbing initial estimates, perturbations times: 100
+2023-03-18 23:09:25,857 : INFO : Size of augmented dataset after perturbations: 2200 images.
+2023-03-18 23:09:27,047 : INFO : Building trees:
+2023-03-18 23:09:27,047 : INFO : Finish 0 trees
+2023-03-18 23:20:13,121 : INFO : Generating initial shapes
+2023-03-18 23:20:13,124 : INFO : Perturbing initial estimates, perturbations times: 100
+2023-03-18 23:20:13,248 : INFO : Size of augmented dataset after perturbations: 2200 images.
+2023-03-18 23:20:14,425 : INFO : Building trees:
+2023-03-18 23:20:14,425 : INFO : Finish 0 trees
+2023-03-18 23:21:14,048 : INFO : Built Forest 0
+2023-03-18 23:21:15,215 : INFO : Building trees:
+2023-03-18 23:21:15,215 : INFO : Finish 0 trees
+2023-03-18 23:22:38,754 : INFO : Built Forest 1
+2023-03-18 23:22:40,041 : INFO : Building trees:
+2023-03-18 23:22:40,041 : INFO : Finish 0 trees
+2023-03-18 23:23:56,469 : INFO : Built Forest 2
+2023-03-18 23:23:58,206 : INFO : Building trees:
+2023-03-18 23:23:58,206 : INFO : Finish 0 trees
+2023-03-18 23:25:08,353 : INFO : Built Forest 3
+2023-03-18 23:25:09,984 : INFO : Building trees:
+2023-03-18 23:25:09,985 : INFO : Finish 0 trees
+2023-03-18 23:26:19,903 : INFO : Built Forest 4
+2023-03-18 23:30:48,403 : INFO : Generating initial shapes
+2023-03-18 23:30:48,413 : INFO : Perturbing initial estimates, perturbations times: 100
+2023-03-18 23:30:48,563 : INFO : Size of augmented dataset after perturbations: 2200 images.
+2023-03-18 23:30:49,898 : INFO : Building trees:
+2023-03-18 23:30:49,898 : INFO : Finish 0 trees
+2023-03-18 23:31:46,210 : INFO : Built Forest 0
+2023-03-18 23:31:47,500 : INFO : Building trees:
+2023-03-18 23:31:47,500 : INFO : Finish 0 trees
+2023-03-18 23:32:42,324 : INFO : Built Forest 1
+2023-03-18 23:32:43,714 : INFO : Building trees:
+2023-03-18 23:32:43,714 : INFO : Finish 0 trees
+2023-03-18 23:33:40,085 : INFO : Built Forest 2
+2023-03-18 23:33:41,435 : INFO : Building trees:
+2023-03-18 23:33:41,435 : INFO : Finish 0 trees
+2023-03-18 23:34:32,005 : INFO : Built Forest 3
+2023-03-18 23:34:33,285 : INFO : Building trees:
+2023-03-18 23:34:33,285 : INFO : Finish 0 trees
+2023-03-18 23:35:24,772 : INFO : Built Forest 4
+2023-03-19 00:18:54,745 : INFO : Generating initial shapes
+2023-03-19 00:18:54,746 : INFO : Perturbing initial estimates, perturbations times: 100
+2023-03-19 00:18:54,908 : INFO : Size of augmented dataset after perturbations: 2200 images.
+2023-03-19 00:18:56,165 : INFO : Building trees:
+2023-03-19 00:18:56,165 : INFO : Finish 0 trees
+2023-03-19 00:19:49,881 : INFO : Built Forest 0
+2023-03-19 00:19:51,016 : INFO : Building trees:
+2023-03-19 00:19:51,016 : INFO : Finish 0 trees
+2023-03-19 00:20:47,255 : INFO : Built Forest 1
+2023-03-19 00:20:48,403 : INFO : Building trees:
+2023-03-19 00:20:48,403 : INFO : Finish 0 trees
+2023-03-19 00:21:40,445 : INFO : Built Forest 2
+2023-03-19 00:21:41,584 : INFO : Building trees:
+2023-03-19 00:21:41,584 : INFO : Finish 0 trees
+2023-03-19 00:22:31,824 : INFO : Built Forest 3
+2023-03-19 00:22:32,971 : INFO : Building trees:
+2023-03-19 00:22:32,971 : INFO : Finish 0 trees
+2023-03-19 00:23:29,076 : INFO : Built Forest 4
+2023-03-23 14:24:44,930 : INFO : Generating initial shapes
+2023-03-23 14:24:44,947 : INFO : Perturbing initial estimates, perturbations times: 100
+2023-03-23 14:24:47,059 : INFO : Size of augmented dataset after perturbations: 36700 images.
+2023-03-23 14:25:06,430 : INFO : Building trees:
+2023-03-23 14:25:06,430 : INFO : Finish 0 trees
+2023-03-23 14:25:41,793 : INFO : Generating initial shapes
+2023-03-23 14:25:41,813 : INFO : Perturbing initial estimates, perturbations times: 1
+2023-03-23 14:25:41,813 : INFO : Size of augmented dataset after perturbations: 367 images.
+2023-03-23 14:25:42,029 : INFO : Building trees:
+2023-03-23 14:25:42,029 : INFO : Finish 0 trees
+2023-03-23 14:26:14,577 : INFO : Built Forest 0
+2023-03-23 14:26:14,777 : INFO : Building trees:
+2023-03-23 14:26:14,777 : INFO : Finish 0 trees
+2023-03-27 15:23:16,548 : INFO : Generating initial shapes
+2023-03-27 15:23:16,567 : INFO : Perturbing initial estimates, perturbations times: 1
+2023-03-27 15:23:16,568 : INFO : Size of augmented dataset after perturbations: 367 images.
+2023-03-27 15:23:16,783 : INFO : Building trees:
+2023-03-27 15:23:16,784 : INFO : Finish 0 trees
+2023-03-27 15:23:53,304 : INFO : Built Forest 0
+2023-03-27 15:23:53,496 : INFO : Building trees:
+2023-03-27 15:23:53,496 : INFO : Finish 0 trees
+2023-03-27 15:24:30,643 : INFO : Built Forest 1
+2023-03-27 15:24:30,838 : INFO : Building trees:
+2023-03-27 15:24:30,838 : INFO : Finish 0 trees
+2023-03-27 15:25:08,227 : INFO : Built Forest 2
+2023-03-27 15:25:08,423 : INFO : Building trees:
+2023-03-27 15:25:08,423 : INFO : Finish 0 trees
+2023-03-27 15:25:42,956 : INFO : Built Forest 3
+2023-03-27 15:25:43,147 : INFO : Building trees:
+2023-03-27 15:25:43,147 : INFO : Finish 0 trees
+2023-03-27 15:26:20,545 : INFO : Built Forest 4
