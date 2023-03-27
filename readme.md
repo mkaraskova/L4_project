@@ -8,7 +8,7 @@ This project is divided into 2 parts:
 
 The project can be downloaded by cloning a GitHub repository with the following command:
 ```
-git clone 
+git clone https://github.com/mkaraskova/L4_project.git
 ```
 
 ### Requirements
